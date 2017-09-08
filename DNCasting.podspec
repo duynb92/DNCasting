@@ -31,4 +31,7 @@ s.source_files = "DNCasting/**/*.{swift}"
 # 9
 # s.resources = "DNCasting/**/*.{png,jpeg,jpg,storyboard,xib}"
 
+# 10
+s.ios.deployment_target = "9.0"
+
 end
