@@ -1,6 +1,6 @@
 # DNCasting
 
-Tired of converting from type to type, try this !
+Tired of casting from type to type, try this ! :see_no_evil:
 
 ## Installation
 
@@ -67,6 +67,8 @@ toInt()
 toDouble()
 toFloat()
 ```
+
+All are self-explanatory. No headache anymore :wink: !
 
 ## License
 
