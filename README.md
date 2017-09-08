@@ -73,3 +73,7 @@ All are self-explanatory. No headache anymore :wink: !
 ## License
 
 **DNCasting** is under MIT license. See the [LICENSE](LICENSE) file for more info.
+
+## Buy me a coffee
+
+If this snippet really, i mean really, save your time. Then [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/DuyN92/)
