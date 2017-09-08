@@ -76,4 +76,4 @@ All are self-explanatory. No headache anymore :wink: !
 
 ## Buy me a coffee
 
-If this snippet really, i mean really, save your time. Then [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/DuyN92/)
+If this snippet really, i mean really, save your time. Then [![Support via PayPal](http://androiduiux.files.wordpress.com/2013/10/support-button.png)](https://www.paypal.me/DuyN92/)
