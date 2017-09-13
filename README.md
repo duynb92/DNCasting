@@ -77,6 +77,8 @@ All are self-explanatory. No headache anymore :wink: !
 ## Buy me a coffee
 
 If this snippet really, i mean really, save your time.
+
+
  <a href="https://www.paypal.me/DuyN92" target="_blank">
 <img src="http://androiduiux.files.wordpress.com/2013/10/support-button.png" width="200px">
 </a>
