@@ -7,6 +7,11 @@ Tired of casting from type to type, try this ! :see_no_evil:
 - **For iOS 8+ projects** with [CocoaPods](https://cocoapods.org):
 
     ```ruby
+    pod 'DNCasting'
+    ```
+    OR 
+    
+     ```ruby
     pod 'DNCasting', :git => 'https://github.com/duynb92/DNCasting.git'
     ```
 
